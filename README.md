@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/oliveraschwanden/iteo-%C3%BCbung/_apis/build/status/aschwandeno.pipelines-java?branchName=master)](https://dev.azure.com/oliveraschwanden/iteo-%C3%BCbung/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
